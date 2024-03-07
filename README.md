@@ -51,6 +51,15 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 40px">
     <img
       align="left"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 40px">
+    <img
+      align="left"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
       width="40"
