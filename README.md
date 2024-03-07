@@ -26,7 +26,6 @@ then her. I told her she is the #1 thing I care about ❤️**
       alt="amirbahador_dev"
       height="30"
       width="40"
-      style="padding-right: 10px"
   /></a>
   <a href="https://www.instagram.com/amirbahador.dev/" target="blank"
     ><img
@@ -35,12 +34,10 @@ then her. I told her she is the #1 thing I care about ❤️**
       alt="https://www.instagram.com/amirbahador.dev/"
       height="30"
       width="40"
-
   /></a>
 </p>
 
 <hr>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
