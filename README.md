@@ -135,8 +135,7 @@ then her. I told her she is the #1 thing I care about ❤️**
   </a>
 </p>
 
-</br>
-</br>
+<hr>
 
 <p>
   <img
@@ -162,4 +161,4 @@ then her. I told her she is the #1 thing I care about ❤️**
   />
 </p>
 
-<hr>
+
