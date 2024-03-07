@@ -4,9 +4,11 @@
 
 
 - 🔭 I’m currently working on **My website** -
+<br/>
 - 🌱 I’m currently learning **C &
-JS** -
-⚡ Fun fact **My girlfriend argued that i care more about programming job
+JS**
+<br/>
+-⚡ Fun fact **My girlfriend argued that i care more about programming job
 then her. I told her she is the #1 thing I care about ❤️**
 
 <br/>
@@ -150,6 +152,7 @@ then her. I told her she is the #1 thing I care about ❤️**
   </a>
 </div>
 
+<br/>
 <br/>
 <hr>
 
