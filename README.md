@@ -35,7 +35,7 @@ then her. I told her she is the #1 thing I care about ❤️**
       alt="https://www.instagram.com/amirbahador.dev/"
       height="30"
       width="40"
-      style="margin-right: 10px"
+
   /></a>
 </p>
 
@@ -51,7 +51,7 @@ then her. I told her she is the #1 thing I care about ❤️**
       alt="arduino"
       width="40"
       height="40"
-      style="padding-right: 10px"
+      style="margin-right: 10px"
     />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
