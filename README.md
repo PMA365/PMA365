@@ -51,6 +51,7 @@ then her. I told her she is the #1 thing I care about ❤️**
       alt="arduino"
       width="40"
       height="40"
+      style="padding-right: 10px"
     />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
