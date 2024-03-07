@@ -8,6 +8,16 @@
 - 🌱 I’m currently learning **C & JS**
 <br/>
 - ⚡ Fun fact **My girlfriend argued that i care more about programming job then her. I told her she is the #1 thing I care about ❤️**
+- 
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 <br/>
 <br/>
 <p align="left">
