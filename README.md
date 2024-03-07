@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Amir Bahador</h1>
 <h3 align="center">A chill developer from Persia</h3>
 
+
+
+- 🔭 I’m currently working on **My website** - 🌱 I’m currently learning **C &
+JS** - ⚡ Fun fact **My girlfriend argued that i care more about programming job
+then her. I told her she is the #1 thing I care about ❤️**
+
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=pma365&label=Profile%20views&color=0e75b6&style=flat"
     alt="pma365"
   />
 </p>
-
-- 🔭 I’m currently working on **My website** - 🌱 I’m currently learning **C &
-JS** - ⚡ Fun fact **My girlfriend argued that i care more about programming job
-then her. I told her she is the #1 thing I care about ❤️**
-
 <hr />
 
 <h3 align="left">Connect with me:</h3>
