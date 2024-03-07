@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C & JS**
 
-- ⚡ Fun fact **My girlfriend argued that i care more about programming job then her. I told her she is the #1 thing I care about ❤️**
+- ⚡ Fun fact **My girlfriend argued that I care more about programming job then her. I told her she is the #1 thing I care about ❤️**
 
 <!-- - 💬 Ask me about **NUXT** -->
 
