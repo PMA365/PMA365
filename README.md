@@ -44,6 +44,7 @@ then her. I told her she is the #1 thing I care about ❤️**
 <div >
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin-right: 40px">
     <img
+      align="left"
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
       alt="arduino"
       width="40"
