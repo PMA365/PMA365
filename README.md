@@ -12,8 +12,7 @@
 JS** - ⚡ Fun fact **My girlfriend argued that i care more about programming job
 then her. I told her she is the #1 thing I care about ❤️**
 
-<br />
-<br />
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +36,8 @@ then her. I told her she is the #1 thing I care about ❤️**
   /></a>
 </p>
 
-<br />
-<br />
+<hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -162,3 +161,5 @@ then her. I told her she is the #1 thing I care about ❤️**
     alt="pma365"
   />
 </p>
+
+<hr>
