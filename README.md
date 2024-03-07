@@ -2,6 +2,7 @@
       align="center"
       src="https://raw.githubusercontent.com/pma365/pma365/master/image/banner.svg"
       alt="myBanner"
+      style="width:100%"
 />
 
 
