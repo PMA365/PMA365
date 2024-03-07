@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir Bahador</h1>
 <h3 align="center">A chill developer from Persia</h3>
 
-
-
 - 🔭 I’m currently working on **My website**
 
 - 🌱 I’m currently learning **C & JS**
@@ -50,15 +48,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <div >
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin-right: 40px">
-    <img
-      align="left"
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 40px">
     <img
       align="left"
@@ -150,6 +139,15 @@
       align="left"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin-right: 40px">
+    <img
+      align="left"
+      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+      alt="arduino"
       width="40"
       height="40"
     />
