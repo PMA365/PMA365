@@ -3,14 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **My website** -
+- 🔭 I’m currently working on **My website**
 <br/>
-- 🌱 I’m currently learning **C &
-JS**
+- 🌱 I’m currently learning **C & JS**
 <br/>
--⚡ Fun fact **My girlfriend argued that i care more about programming job
-then her. I told her she is the #1 thing I care about ❤️**
-
+-⚡ Fun fact **My girlfriend argued that i care more about programming job then her. I told her she is the #1 thing I care about ❤️**
 <br/>
 <p align="left">
   <img
@@ -18,6 +15,7 @@ then her. I told her she is the #1 thing I care about ❤️**
     alt="pma365"
   />
 </p>
+<br/>
 <hr />
 
 <h3 align="left">Connect with me:</h3>
