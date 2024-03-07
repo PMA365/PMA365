@@ -41,7 +41,7 @@ then her. I told her she is the #1 thing I care about ❤️**
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
-<div style="display: flex; flex-direction: row; gap: 10px;">
+<div style="display: flex; flex-direction: row; gap: 40px;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
