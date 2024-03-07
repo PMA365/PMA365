@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My website**
 
-- 🌱 I’m currently learning **C & JS**
+- 🌱 I’m currently learning **[ C & JS ]**
 
 - ⚡ Fun fact **My girlfriend argued that I care more about programming job then her. I told her she is the #1 thing I care about ❤️**
 
@@ -48,7 +48,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <div >
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 40px">
+  
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 40px">
     <img
       align="left"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
@@ -157,6 +158,15 @@
       align="left"
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
       alt="arduino"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="margin-right: 40px">
+    <img
+      align="left"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+      alt="postman"
       width="40"
       height="40"
     />
