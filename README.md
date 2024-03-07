@@ -17,6 +17,7 @@ then her. I told her she is the #1 thing I care about ❤️**
 <hr />
 
 <h3 align="left">Connect with me:</h3>
+<br/>
 <p align="left">
   <a href="https://twitter.com/amirbahador_dev" target="blank"
     ><img
@@ -42,6 +43,7 @@ then her. I told her she is the #1 thing I care about ❤️**
 
 
 <h3 align="left">Languages and Tools:</h3>
+<br/>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
