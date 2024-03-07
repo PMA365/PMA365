@@ -41,14 +41,14 @@ then her. I told her she is the #1 thing I care about ❤️**
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
-<div style="display: flex; flex-direction: row; gap: 40px;">
+<div ">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
       alt="arduino"
       width="40"
       height="40"
-      style="margin-right: 10px"
+      style="margin-right: 40px"
     />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -57,6 +57,7 @@ then her. I told her she is the #1 thing I care about ❤️**
       alt="c"
       width="40"
       height="40"
+      style="margin-right: 40px"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
