@@ -44,7 +44,7 @@ then her. I told her she is the #1 thing I care about ❤️**
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
-<p align="left">
+<div style="display: flex; flex-direction: row;>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -138,7 +138,7 @@ then her. I told her she is the #1 thing I care about ❤️**
       height="40"
     />
   </a>
-</p>
+</div>
 
 <hr>
 
