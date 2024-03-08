@@ -39,7 +39,7 @@
 
 <hr />
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me :
 <br/>
 <p align="left">
   <a href="https://twitter.com/amirbahador_dev" target="blank"
@@ -62,7 +62,7 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧰 Languages and Tools :
 <br/>
 <div >
   
