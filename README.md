@@ -14,7 +14,7 @@
       width="170"
 /></span></h3> 
 
-- 🔭 I’m currently working on **My website**
+- 🚀 I’m currently working on **My website**
 
 - 🌱 I’m currently learning **[ C & JS ]**
 
