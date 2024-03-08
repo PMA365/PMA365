@@ -8,13 +8,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Amir Bahador</h1>
-<h3 align="center">A chill developer from Persia</h3> 
-<img
+<h3 align="center">A chill developer from Persia <span><img
+      align="center"                                                 
       src="https://raw.githubusercontent.com/pma365/pma365/master/image/persianEmpireSymbol.svg"
-      alt="https://www.instagram.com/amirbahador.dev/"
-      height="5"
-      width="5"
-/>
+      alt="Persian Empire"
+      height="200"
+      width="130"
+/></span></h3> 
+
 
 - 🔭 I’m currently working on **My website**
 
