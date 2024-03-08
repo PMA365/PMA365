@@ -5,23 +5,22 @@
       style="width:100%"
 />
 
-
-
 <h1 align="center">Hi 👋, I'm Amir Bahador</h1>
 <h3 align="center">A chill developer from Persia <span><img
       align="center"                                                 
       src="https://raw.githubusercontent.com/pma365/pma365/master/image/persianEmpireSymbol.svg"
       alt="Persian Empire"
-      height="200"
-      width="130"
+      height="100"
+      width="170"
 /></span></h3> 
-
 
 - 🔭 I’m currently working on **My website**
 
 - 🌱 I’m currently learning **[ C & JS ]**
 
 - ⚡ Fun fact **My girlfriend argued that I care more about programming job then her. I told her she is the #1 thing I care about ❤️**
+
+- 💬 Keep it <ins>**PMA**</ins> all the <ins>**365**</ins> days of the year
 
 <!-- - 💬 Ask me about **NUXT** -->
 
