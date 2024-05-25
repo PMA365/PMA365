@@ -6,7 +6,7 @@
 />
 
 <h1 align="center">Hi 👋, I'm Amir Bahador</h1>
-<h3 align="center">A chill developer from Persia <span><img
+<h3 align="center">A chilled developer from Persia <span><img
       align="center"                                                 
       src="https://raw.githubusercontent.com/pma365/pma365/master/image/persianEmpireSymbol.svg"
       alt="Persian Empire"
