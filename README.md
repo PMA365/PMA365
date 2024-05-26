@@ -24,6 +24,8 @@
 
 - ⚡ Keep it <ins>**PMA**</ins> all the <ins>**365**</ins> days of the year
 
+- 🏷️ Feel free to use my banner, I have made it with vectors, so don't worry about image quality.
+
 <!-- - 💬 Ask me about **NUXT** -->
 
 <!-- - 📫 How to reach me **myCustom0@gmail.com**  -->
