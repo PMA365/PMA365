@@ -60,6 +60,14 @@
       height="30"
       width="40"
   /></a>
+      <a href="https://t.me/developesthgreat/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/pma365/pma365/master/image/telegram-svgrepo-com.svg"
+      alt="https://t.me/developesthgreat/"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <hr>
