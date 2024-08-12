@@ -65,8 +65,8 @@
       align="center"
       src="https://raw.githubusercontent.com/pma365/pma365/master/image/telegram-svgrepo-com.svg"
       alt="https://t.me/developesthgreat/"
-      height="40"
-      width="50"
+      height="35"
+      width="35"
   /></a>
 </p>
 
