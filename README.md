@@ -20,7 +20,7 @@
 
 - 🤣 Fun fact **My girlfriend argued that I care more about programming job than her. I told her she is the #1 thing I care about ❤️**
  
-- 🥅 2024 Goals: Learn more about Cybersecurity
+- 🥅 2025 Goals: Learn more about Cybersecurity
 
 - ⚡ Keep it <ins>**PMA**</ins> all the <ins>**365**</ins> days of the year
 
