@@ -17,14 +17,14 @@
 - 🚀 I’m currently working on **My website**
 
 - 🌱 I’m currently learning **[ C & JS ]**
-
-- 🤣 Fun fact **My girlfriend argued that I care more about programming job than her. I told her she is the #1 thing I care about ❤️**
  
 - 🥅 2025 Goals: Learn more about Cybersecurity
 
 - ⚡ Keep it <ins>**PMA**</ins> all the <ins>**365**</ins> days of the year
 
-- 🏷️ Feel free to use my banner, I have made it with vectors, so don't worry about image quality.
+- 🏷️ Feel free to use my banner, I have made it with vectors, so don't worry about image quality
+
+- 🤣 Fun fact **My girlfriend argued that I care more about programming job than her. I told her she is the #1 thing I care about ❤️**
 
 <!-- - 💬 Ask me about **NUXT** -->
 
