@@ -14,17 +14,17 @@
       width="170"
 /></span></h3> 
 
-- 🚀 I’m currently working on **My website**
+<!-- 🚀 I’m currently working on **My website**-->
 
-- 🌱 I’m currently learning **[ C & JS ]**
+- 🌱 I’m currently learning **[ JS ]**
  
-- 🥅 2025 Goals: Learn more about Cybersecurity
+- 🥅 2026 Goals: Learn JS + react + nodejs
 
 - ⚡ Keep it <ins>**PMA**</ins> all the <ins>**365**</ins> days of the year
 
 - 🏷️ Feel free to use my banner, I have made it with vectors, so don't worry about image quality
 
-- 🤣 Fun fact **My girlfriend argued that I care more about programming job than her. I told her she is the #1 thing I care about ❤️**
+<!--- 🤣 Fun fact **My girlfriend argued that I care more about programming job than her. I told her she is the #1 thing I care about ❤️**-->
 
 <!-- - 💬 Ask me about **NUXT** -->
 
