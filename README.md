@@ -52,19 +52,19 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.instagram.com/amirbahador.dev/" target="blank"
+  <a href="https://www.instagram.com/amirbahador_dev/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/amirbahador.dev/"
+      alt="https://www.instagram.com/amirbahador_dev/"
       height="30"
       width="40"
   /></a>
-      <a href="https://t.me/developesthgreat/" target="blank"
+      <a href="https://t.me/amirbahador_dev/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/pma365/pma365/master/image/telegram-svgrepo-com.svg"
-      alt="https://t.me/developesthgreat/"
+      alt="https://t.me/amirbahador_dev/"
       height="35"
       width="35"
   /></a>
