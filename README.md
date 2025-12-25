@@ -204,21 +204,7 @@
 <br/>
 <hr>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pma365&show_icons=true&locale=en&theme=tokyonight"
-    alt="pma365"
-  />
-</p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=pma365&show_icons=true&locale=en&theme=tokyonight"
-    alt="pma365"
-  />
-</p>
 
 <p>
   <img
