@@ -52,7 +52,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.instagram.com/amirbahador_dev/" target="blank"
+  <a href="https://www.instagram.com/bahador_solo/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
